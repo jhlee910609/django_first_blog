@@ -25,7 +25,7 @@ SECRET_KEY = '8z3@*9j!$26&c$d8g#=!12o#1^(%alpcxtk%bg#fi!i71$9y^@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonaywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'community.pythonaywhere.com']
 
 
 # Application definition
